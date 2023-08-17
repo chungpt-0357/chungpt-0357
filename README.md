@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @chungpt-0357
-- 👀 I’m interested in volleyball =))) 
+- 👋 Hi, I’m Pham Thanh Chung
+- 👀 I’m interested in volleyball =))) 日本ファン
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact 0971751698
 
 <!---
 chungpt-0357/chungpt-0357 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
